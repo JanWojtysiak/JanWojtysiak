@@ -4,6 +4,7 @@
 
 ### About me
 Interested in IT, software development, networks, backend, and AI.
+
 Currently studying **IT Automation Systems** at **Wrocław University of Science and Technology**.
 
 ### Technologies
@@ -13,4 +14,5 @@ Currently studying **IT Automation Systems** at **Wrocław University of Science
 * **Frontend:** JavaScript, HTML, CSS
 
 ### My Goals
-CCNA, mastering TypeScript.
+* 🛰️ Obtaining **CCNA** certification.
+* 🚀 Mastering **TypeScript**.
