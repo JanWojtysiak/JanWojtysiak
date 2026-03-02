@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**JanWojtysiak/JanWojtysiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**From Świebodzice, Poland 📍 living in Wrocław, Poland.**
 
-Here are some ideas to get you started:
+### About me
+Interested in IT, software development, networks, backend, and AI.
+Currently studying **IT Automation Systems** at **Wrocław University of Science and Technology** (Politechnika Wrocławska).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+* **Backend:** Node.js, Flask, Express, Python
+* **Databases & ORM:** PostgreSQL, MySQL, Prisma ORM
+* **DevOps & Tools:** Docker
+* **Frontend:** JavaScript, HTML, CSS
+
+### My Goals
+CCNA, mastering TypeScript.
