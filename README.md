@@ -4,7 +4,7 @@
 
 ### About me
 Interested in IT, software development, networks, backend, and AI.
-Currently studying **IT Automation Systems** at **Wrocław University of Science and Technology** (Politechnika Wrocławska).
+Currently studying **IT Automation Systems** at **Wrocław University of Science and Technology**.
 
 ### Technologies
 * **Backend:** Node.js, Flask, Express, Python
