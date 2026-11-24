@@ -4,7 +4,6 @@ Fullstack Developer & Computer Science student at Wrocław University of Science
 
 - 💻 I build web apps with **React + TypeScript** and **Node.js / Python**
 - 🛡️ Currently learning **web application vulnerabilities**, preparing for the **Burp Suite Certified Practitioner (BSCP)** and deepening my knowledge of building secure applications
-- 🎯 In the future I want to move toward a **Web Security** role
 
 ### 🛠️ Tech stack
 
